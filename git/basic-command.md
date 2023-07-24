@@ -6,10 +6,10 @@
 
 ## 분산 관리 버전 시스템 (DVCS)
 
-![GIT](./assets/dot-git.jpg)
+![git](./assets/distributed.png)
 
 ## 세가지 상태
-![GIT](./asserts/local.png)
+![git](./assets/local.png)
 
 
 ```shell
